@@ -3,7 +3,9 @@
 
 ### Files' naming:
 first word -- ara/heb == the language
+
 second -- ca/cc == collexeme analysis/covarying collexeme
+
 third == for which construction
 
 ### Расшифровка названий файлов:
